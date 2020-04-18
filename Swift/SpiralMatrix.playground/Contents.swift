@@ -103,5 +103,5 @@ func printMatrix(_ matrix: [[Int]]) {
     }
 }
 
-printMatrix(spiralMatrix(3))
+printMatrix(spiralMatrix(10))
 
