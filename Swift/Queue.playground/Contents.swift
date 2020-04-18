@@ -8,7 +8,7 @@ import UIKit
  
  */
 struct Queue<T> {
-    var list: [T] = []
+    private var list: [T] = []
     
     mutating func push(val: T) {
         list.append(val)
@@ -52,3 +52,4 @@ print(strBullet.getCountOfElements())
 print(strBullet.delete() ?? "")
 print(strBullet.getValues())
 print(strBullet.getCountOfElements())
+
