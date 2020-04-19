@@ -1,4 +1,6 @@
-import UIKit
+//: [Previous](@previous)
+
+import Foundation
 
 /*
  This code shows the implemetation of Stack. It will have following functions.
@@ -25,11 +27,11 @@ struct Stack<T> {
         }
     }
     
-    mutating func getValues() -> [T] {
+    func getValues() -> [T] {
         return list
     }
     
-    mutating func count() -> Int {
+    func count() -> Int {
         return list.count
     }
 }
@@ -47,3 +49,6 @@ print(pileOfPlates.getValues())
 pileOfPlates.pop()
 print(pileOfPlates.getValues())
 print(pileOfPlates.count())
+
+
+//: [Next](@next)

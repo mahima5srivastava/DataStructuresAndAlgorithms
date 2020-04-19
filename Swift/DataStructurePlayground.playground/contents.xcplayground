@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='LinkedList'/>
+        <page name='Tree'/>
+        <page name='Stacks'/>
+        <page name='Queues'/>
+        <page name='QueueFromStacks'/>
+    </pages>
+</playground>

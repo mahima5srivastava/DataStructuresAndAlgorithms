@@ -1,4 +1,6 @@
-import UIKit
+//: [Previous](@previous)
+
+import Foundation
 /*
  This code will show the implementation of queue data structure. It will have following methods:
     1. Insertion (1,2,3,4) -> Insert 5 -> (1,2,3,4,5)
@@ -18,11 +20,11 @@ struct Queue<T> {
         return list.remove(at: 0)
     }
     
-    mutating func getCountOfElements() -> Int {
+    func getCountOfElements() -> Int {
         return list.count
     }
     
-    mutating func getValues() -> [T] {
+    func getValues() -> [T] {
         return list
     }
  }
@@ -53,3 +55,6 @@ print(strBullet.delete() ?? "")
 print(strBullet.getValues())
 print(strBullet.getCountOfElements())
 
+
+
+//: [Next](@next)
