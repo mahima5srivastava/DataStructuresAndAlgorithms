@@ -12,5 +12,6 @@
         <page name='SortArrayOf012'/>
         <page name='PartitionNegativePositive'/>
         <page name='ArrayUnion'/>
+        <page name='CyclicRotation'/>
     </pages>
 </playground>
