@@ -6,5 +6,6 @@
         <page name='Stacks'/>
         <page name='Queues'/>
         <page name='QueueFromStacks'/>
+        <page name='ReverseArray'/>
     </pages>
 </playground>
