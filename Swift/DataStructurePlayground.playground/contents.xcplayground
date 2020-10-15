@@ -7,5 +7,6 @@
         <page name='Queues'/>
         <page name='QueueFromStacks'/>
         <page name='ReverseArray'/>
+        <page name='MinMaxArray'/>
     </pages>
 </playground>
