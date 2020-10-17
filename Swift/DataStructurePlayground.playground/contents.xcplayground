@@ -13,5 +13,7 @@
         <page name='PartitionNegativePositive'/>
         <page name='ArrayUnion'/>
         <page name='CyclicRotation'/>
+        <page name='Kandane&apos;sAlgorithm'/>
+        <page name='OrderInWhichPeopleLeave'/>
     </pages>
 </playground>
