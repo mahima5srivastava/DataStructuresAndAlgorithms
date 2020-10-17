@@ -8,5 +8,9 @@
         <page name='QueueFromStacks'/>
         <page name='ReverseArray'/>
         <page name='MinMaxArray'/>
+        <page name='kthMinInArray'/>
+        <page name='SortArrayOf012'/>
+        <page name='PartitionNegativePositive'/>
+        <page name='ArrayUnion'/>
     </pages>
 </playground>
